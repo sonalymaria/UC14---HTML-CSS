@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Pinyon+Script&display=swap');
+
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #e94ec0;
+}
+
+h2 {
+
+font-family:"Pinyon Script", cursive ;
+color: #58f16f;
+}
+    
+.título {
+    color: #d680fe;
+}
+
+#importante {
+    color: #f886d6;
+}
+

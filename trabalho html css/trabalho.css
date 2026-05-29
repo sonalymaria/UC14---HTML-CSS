@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Imperial+Script&family=Pinyon+Script&display=swap');
+
+h1 { 
+    text-align: center;
+    background-color: rgb(231, 132, 157);
+    font-family: "Pinyon Script", cursive;
+}
+
+h2 {
+text-align: center;
+    color: rgb(114, 3, 7);
+}
+
+body {
+    background-color: rgb(222, 95, 127);
+}
+
+form {
+    background-color: rgb(114, 3, 7);
+    padding: 30px;
+    margin: 50px auto;
+    width: 300px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgb(49, 1, 1);
+}
+
+input {
+    padding: 10px;
+    margin: 10px 0;
+    width: 200px;
+    border: 1px solid (245, 146, 162);
+    border-radius: 8px;
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 500px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
